@@ -7,7 +7,8 @@
   "key-3" : "It's ducks all the way down.",
 
   "day_of_week_array" : [ {
-      "Monday" : "Monday is the first day",
-      "Tuesday" : "Is not Monday."
+      "Monday" : "Monday is the very first day",
+      "Tuesday" : "Is not Monday.",
+      "Wednesday": "Is Wednesday"
   }  ]
 }
